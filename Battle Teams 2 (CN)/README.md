@@ -8,7 +8,7 @@ You can change the login channel of the launcher by replacing configuration file
 
 1. Enter the folder of the channel you need;
 2. Copy (download) the `platform.xml` and the `platform_exm.ini`;
-3. Find the install director of your game (Right-Click your game shortcut on the desktop and choose the `Open file location` option);
+3. Find the install direction of your game (Right-Click your game shortcut on the desktop and choose the `Open file location` option);
 4. Paste the files mentioned in Point `2` and choose "Replace the files in the destination".
 
 **Platforms Supported**
